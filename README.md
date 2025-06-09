@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **razafarhan967@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Lenovo/Downloads/Resume_Farhan%20Raza.pdf](file:///C:/Users/Lenovo/Downloads/Resume_Farhan%20Raza.pdf)
-
 - ⚡ Currently doing course of **Basic Structures in C++**
 
 <h3 align="left">Connect with me:</h3>
