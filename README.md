@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C++ and Circuits analysis**
 
-- 📫 How to reach me **razafarhan967@gmail.com**
+- 📫 How to reach me **raza4703669@cloud.neduet.edu.pk**
 
 - ⚡ Currently doing course of **Basic Structures in C++**
 <img align="right" alt="electrical" width="300" src="https://i.pinimg.com/originals/65/7a/57/657a571ab7ba2ec2782691dfb78e144e.gif"><br><br>
