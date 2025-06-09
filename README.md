@@ -15,7 +15,7 @@
 - 📫 How to reach me **razafarhan967@gmail.com**
 
 - ⚡ Currently doing course of **Basic Structures in C++**
-<img align="right" alt="electrical" width="300" src="https://i.pinimg.com/originals/65/7a/57/657a571ab7ba2ec2782691dfb78e144e.gif"><br>
+<img align="right" alt="electrical" width="300" src="https://i.pinimg.com/originals/65/7a/57/657a571ab7ba2ec2782691dfb78e144e.gif"><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
