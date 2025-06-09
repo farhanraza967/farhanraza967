@@ -15,7 +15,7 @@
 - 📫 How to reach me **razafarhan967@gmail.com**
 
 - ⚡ Currently doing course of **Basic Structures in C++**
-<img align="right" alt="electrical" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"><br>
+<img align="right" alt="electrical" width="300" src="https://i.pinimg.com/originals/65/7a/57/657a571ab7ba2ec2782691dfb78e144e.gif"><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,9 +25,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
-<img align="right" alt="electrical" width="300" src="https://i.pinimg.com/originals/35/18/69/351869661838f75c52ae8f7b7de34f99.gif">
+<img align="right" alt="electrical" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanraza967&" alt="farhanraza967" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanraza967&" alt="farhanraza96" />
 </p>
 <p align="left">
 <p align="left">
