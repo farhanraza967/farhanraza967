@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Farhan Raza</h1>
-<h3 align="center">Future Electrical Engineer | Embedded Systems Enthusiast | Problem Solver | Code & Currents</h3>
+<h3 align="center">Future Electrical Engineer | Embedded Systems Enthusiast  Code & Currents</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farhanraza967&label=Profile%20Views&color=0e75b6&style=flat" alt="farhanraza967" />
