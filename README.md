@@ -12,8 +12,8 @@
 
 - 🎓 Electrical Engineering Student
 - 🔭 Currently working on **ESP32 & Embedded Systems**
-- 🌱 Learning **Microcontrollers, IoT, and Embedded Programming**
-- 💬 Ask me about **C++, Python, Arduino, ESP32, MATLAB & Embedded Systems**
+- 🌱 Learning **Microcontrollers, IoT & Embedded Programming**
+- 💬 Ask me about **C++, Arduino, ESP32, MATLAB & Embedded Systems**
 - ⚡ Passionate about **Automation, IoT, Robotics & AI**
 - 📫 Reach me at **raza4703669@cloud.neduet.edu.pk**
 
